@@ -1,0 +1,17 @@
+All assets we used are from Sketchfab and grabcad.
+
+https://sketchfab.com/3d-models/bio-chamber-unit-free-asset-be85738730d7494a85450a0b9ce105c8
+https://sketchfab.com/3d-models/consol-ba502fe50e41413789376adf1659be72
+https://sketchfab.com/3d-models/doom-3-floor-05-274eb24afaaa4be6bb5da74c63e6d966
+https://sketchfab.com/3d-models/doom-3-floor-tile-09-1f5cd38b8f1b4f34bc8aa0834a7270f3
+https://sketchfab.com/3d-models/full-screen-443cd00966194e989f73a727e3720d4c
+https://sketchfab.com/3d-models/sci-fi-ant-unit-3bfe0a7a751c421694f81bc2a1f2425d
+https://sketchfab.com/3d-models/sci-fi-container-free-245a939438714dd1ba03660f89f82d47
+https://sketchfab.com/3d-models/sci-fi-door-c6a6ef337b6c4f51ba68c2f0708c9622
+https://sketchfab.com/3d-models/sci-fi-floor-panel-3721b9e65766452388f3788b53898ae0
+https://sketchfab.com/3d-models/sci-fi-lowpoly-dashboard-c43dfbc4d1b84a55b8d3581493965c69
+https://sketchfab.com/3d-models/sci-fi-panels-c1243c5a9e954c539b2c181c886dad62
+https://sketchfab.com/3d-models/terminal-ea775c5fc2bc4055ae4ca2654f9a9b6e
+https://grabcad.com/library/wio-terminal-2
+
+All rights reserved
